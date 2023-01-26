@@ -150,6 +150,7 @@ main {
 @media (min-width: 660px) {
     .container {
         flex-direction: unset;
+        margin: 2.5em;
     }
 
     .img-main img {
